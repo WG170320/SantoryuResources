@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "title": "What's New",
+  "items": [
+    {
+      "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003718.png",
+      "name": "Paquito · Ryu",
+      "tag": "NEW SKIN",
+      "desc": "Street Fighter Skins"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003820.png",
+      "name": "Guinevere • Chun-Li",
+      "tag": "NEW SKIN",
+      "desc": "Street Fighter Skins"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003749.png",
+      "name": "Chou • Ken Masters",
+      "tag": "NEW SKIN",
+      "desc": "Street Fighter Skins"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003847.png",
+      "name": "Dyrroth • Guile",
+      "tag": "NEW SKIN",
+      "desc": "Street Fighter Skins"
+    },
+    {
+      "image": "",
+      "name": "Live Carousel",
+      "tag": "NEW FEATURE",
+      "desc": "I-tap ang banner sa home para direktang i-apply ang skin."
+    }
+  ]
+}
