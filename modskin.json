@@ -1,10 +1,10 @@
 {
   "modskins": [
     {
-      "id": "Michael Jackson V2",
+      "id": "Michael Jackson V1",
       "name": "Chou",
-      "category": "Michael Jackson v2",
-      "series": "Michael Jackson",
+      "category": "Michael Jackson v1 (new) ",
+      "series": "Michael Jackson v1 (new) ",
       "image": "https://i.pinimg.com/originals/1a/ab/7b/1aab7b34dcc655f0c7f0643461c46b0a.gif",
       "script": "https://github.com/WG170320/shesh/raw/refs/heads/main/MJV2.zip",
       "enabled": true,
@@ -17,9 +17,9 @@
     {
       "id": "Michael Jackson",
       "name": "Chou",
-      "category": "Michael Jackson v1",
-      "series": "Michael Jackson v1",
-      "image": "https://tenor.com/search/michael-jackson-gif-moonwalk-gifs",
+      "category": "Michael Jackson v2",
+      "series": "Michael Jackson v2",
+      "image": "https://media1.tenor.com/m/gZFJyYw0yE4AAAAC/smooth-criminal-michaeljackson.gif",
       "script": "https://github.com/WG170320/Resources-/raw/refs/heads/main/Mj%20Skin.zip",
       "enabled": true,
       "featured": false,
