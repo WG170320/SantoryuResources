@@ -4,10 +4,10 @@
     "hero": "Chou",
     "role": "Fighter",
     "type": "Skin",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
-    "video": "",
+    "image": "https://pbs.twimg.com/media/HJaanYaaQAAmJIs.jpg?format=jpg&name=large",
+    "video": "https://www.youtube.com/watch?v=oeRQEPyfSZE",
     "note": "Street Fighter collab — custom swagger walk, clean arms.",
-    "date": "July 5",
+    "date": "JUL 5",
     "enabled": true
   },
   {
@@ -15,10 +15,10 @@
     "hero": "Guinevere",
     "role": "Fighter",
     "type": "Skin",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-    "video": "",
+    "image": "https://pbs.twimg.com/media/HJaaVWeakAAZlJM.jpg?format=jpg&name=large",
+    "video": "https://www.youtube.com/watch?v=oeRQEPyfSZE",
     "note": "New effects pack + custom animations.",
-    "date": "Coming soon",
+    "date": "SOON",
     "enabled": true
   },
   {
@@ -26,7 +26,7 @@
     "hero": "Paquito",
     "role": "Fighter",
     "type": "Customize",
-    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+    "image": "https://pbs.twimg.com/media/HJaanYaaQAAmJIs.jpg?format=jpg&name=large",
     "video": "",
     "note": "Hadouken-ready VFX. In the works.",
     "date": "TBA",
