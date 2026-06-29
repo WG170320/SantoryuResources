@@ -9,10 +9,10 @@
   "wait_accept2": 10,
   "relock_hours": 2,
   "relock_enabled": true,
-  "latest_version": 7,
-  "min_version": 4,
+  "latest_version": 9,
+  "min_version": 9,
   "force_update": true,
   "update_url": "https://santoryutoolkit.com/",
-  "update_version_name": "1.6",
-  "update_message": "New in 1.6 — Revamped Earn page with daily bonus, a leaderboard with profiles, real diamond icons, smoother & lighter performance, and more ways to earn diamonds. Tap update to continue."
+  "update_version_name": "1.8",
+  "update_message": "Version 1.8 is out - faster app, cleaner Earn page, new Upcoming previews, a community FAQ bot, and more fixes. Please update to keep using Santoryu."
 }
