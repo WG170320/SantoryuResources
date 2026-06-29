@@ -9,10 +9,10 @@
   "wait_accept2": 10,
   "relock_hours": 2,
   "relock_enabled": true,
-  "latest_version": 9,
-  "min_version": 9,
+  "latest_version": 10,
+  "min_version": 10,
   "force_update": true,
   "update_url": "https://santoryutoolkit.com/",
-  "update_version_name": "1.8",
-  "update_message": "Version 1.8 is out - faster app, cleaner Earn page, new Upcoming previews, a community FAQ bot, and more fixes. Please update to keep using Santoryu."
+  "update_version_name": "1.9",
+  "update_message": "Version 1.9 fixes the withdrawal issue - you can now cash out your diamonds reliably. Also: a cleaner Earn page with a withdrawal goal that updates as you progress, plus stability fixes. Please update to keep using Santoryu."
 }
