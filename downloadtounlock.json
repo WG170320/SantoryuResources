@@ -11,7 +11,7 @@
   "relock_enabled": true,
   "latest_version": 11,
   "min_version": 10,
-  "force_update": false,
+  "force_update": true,
   "update_url": "https://santoryutoolkit.com/",
   "update_version_name": "1.9.1",
   "update_message": "New in 1.9.1: faster Earn tab, fresh app-wide design, editable profile (name & photo), and verified MLBB account on withdraw."
