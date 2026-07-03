@@ -1,7 +1,79 @@
 [
   {
     "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201.jpg?raw=true",
-    "name": "Badang MPL ",
+    "name": "Badang Mpl",
+    "role": "Fighter",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%201.jpg?raw=true",
+    "name": "Baxia Msc",
+    "role": "Tank",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%202.jpg?raw=true",
+    "name": "Gloo Elite",
+    "role": "Tank",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%203.jpg?raw=true",
+    "name": "Harith Starlight",
+    "role": "Mage",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%204.jpg?raw=true",
+    "name": "Obsidia Starlight",
+    "role": "Marksman",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%205.jpg?raw=true",
+    "name": "Hanzo Starligh",
+    "role": "Assassin",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%206.jpg?raw=true",
+    "name": "Belarick Starlight",
+    "role": "Tank",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%207.jpg?raw=true",
+    "name": "Roger Special",
+    "role": "Assassin",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%208.jpg?raw=true",
+    "name": "Zhask S41",
+    "role": "Mage",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%208%20(1).jpg?raw=true",
+    "name": "Balmond CT",
     "role": "Fighter",
     "script": "",
     "image": "",
