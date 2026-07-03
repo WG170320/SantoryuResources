@@ -1,5 +1,13 @@
 [
   {
+    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%208%20(1).jpg?raw=true",
+    "name": "Balmond CT",
+    "role": "Fighter",
+    "script": "",
+    "image": "",
+    "enabled": true
+  },
+  {
     "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201.jpg?raw=true",
     "name": "Badang Mpl",
     "role": "Fighter",
@@ -67,14 +75,6 @@
     "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%208.jpg?raw=true",
     "name": "Zhask S41",
     "role": "Mage",
-    "script": "",
-    "image": "",
-    "enabled": true
-  },
-  {
-    "banner": "https://github.com/kairimlbb17-tech/newimport/blob/main/badang_mpl%201%208%20(1).jpg?raw=true",
-    "name": "Balmond CT",
-    "role": "Fighter",
     "script": "",
     "image": "",
     "enabled": true
