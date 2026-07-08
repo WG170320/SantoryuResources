@@ -8142,6 +8142,49 @@
       ]
     },
     {
+      "id": "fredrinn",
+      "name": "Fredrinn",
+      "category": "fighter",
+      "enabled": true,
+      "skins": [
+        {
+          "id": "fredrinn_001",
+          "skin_name": "Backup",
+          "image": "https://liquipedia.net/commons/images/thumb/d/d5/Fredrinn_Rogue_Appraiser_Skin.jpg/475px-Fredrinn_Rogue_Appraiser_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-backup.zip",
+          "enabled": true
+        },
+        {
+          "id": "fredrinn_002",
+          "skin_name": "Regal Renegade",
+          "image": "https://liquipedia.net/commons/images/thumb/5/53/Fredrinn_Regal_Renegade_Skin.jpg/475px-Fredrinn_Regal_Renegade_Skin.jpg",
+          "script": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/upcoming_Skins/fredrin%20basic.zip",
+          "enabled": true
+        },
+        {
+          "id": "fredrinn_003",
+          "skin_name": "Neobeast Fredrinn",
+          "image": "https://liquipedia.net/commons/images/thumb/5/57/Fredrinn_Neobeast_Fredrinn_Skin.jpg/475px-Fredrinn_Neobeast_Fredrinn_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-neobeast.zip",
+          "enabled": true
+        },
+        {
+          "id": "fredrinn_004",
+          "skin_name": "Sparkle Fredrinn",
+          "image": "https://liquipedia.net/commons/images/thumb/f/f1/Fredrinn_Sparkle_Fredrinn_Skin.jpg/475px-Fredrinn_Sparkle_Fredrinn_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-sparkle.zip",
+          "enabled": true
+        },
+        {
+          "id": "fredrinn_005",
+          "skin_name": "Royal Marshal",
+          "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Fredrin-Royal-Marshal.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/freddrin-royal-marshal.zip",
+          "enabled": true
+        }
+      ]
+    },
+    {
       "id": "fredrin",
       "name": "Fredrin",
       "category": "fighter",
