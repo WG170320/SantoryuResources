@@ -18168,268 +18168,101 @@
       "skins": [
         {
           "id": "miya_001",
-          "skin_name": "Backup",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20231231181124",
-          "script": "https://github.com/tin0521/mm/raw/main/miya_backup.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "backup",
-              "name": "backup",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "miya",
-              "name": "miya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
+          "skin_name": "Moonlight Archer",
+          "image": "https://liquipedia.net/commons/images/thumb/a/aa/Miya_Moonlight_Archer_Skin.jpg/475px-Miya_Moonlight_Archer_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/Miya_backup.zip",
+          "enabled": true
         },
         {
           "id": "miya_002",
-          "skin_name": "Eternal Season - Miya",
-          "image": "https://github.com/tin0521/January_2026/raw/main/miya%20ethernal.jpg",
-          "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/miya_def_eternal.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "eternal_season",
-              "name": "eternal season",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "miya",
-              "name": "miya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
+          "skin_name": "Burning Bow",
+          "image": "https://liquipedia.net/commons/images/thumb/b/bf/Miya_Burning_Bow_Skin.jpg/475px-Miya_Burning_Bow_Skin.jpg",
+          "script": "https://github.com/XXXRAINIER09/part7/raw/main/miya%20elite.zip",
+          "enabled": true
         },
         {
           "id": "miya_003",
-          "skin_name": "Modena Butterfly",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest?cb=20220525164230",
-          "script": "https://github.com/tin0521/mm/raw/main/miya_legend.zip",
-          "featured": true,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "legend",
-              "name": "Legend",
-              "file": "Legend Skin Tag.png",
-              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-              "type": "rarity"
-            },
-            {
-              "id": "miya",
-              "name": "miya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
+          "skin_name": "Christmas Carnival",
+          "image": "https://liquipedia.net/commons/images/thumb/7/7d/Miya_Christmas_Carnival_Skin.jpg/475px-Miya_Christmas_Carnival_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_christmas_carnival.zip",
+          "enabled": true
         },
         {
           "id": "miya_004",
-          "skin_name": "Doom Catalyst",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest?cb=20220804115343",
-          "script": "https://github.com/tin0521/mm/raw/main/miya_collector.zip",
-          "featured": true,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "collector",
-              "name": "Collector",
-              "file": "Collector Skin Tag.png",
-              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-              "type": "rarity"
-            },
-            {
-              "id": "miya",
-              "name": "miya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
+          "skin_name": "Captain Thorns",
+          "image": "https://liquipedia.net/commons/images/8/83/Miya_Captain_Thorns_Skin.jpg",
+          "script": "https://github.com/XXXRAINIER09/part7/raw/main/miya%20starlight.zip",
+          "enabled": true
         },
         {
           "id": "miya_005",
-          "skin_name": "Atomic Pop Miya",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest?cb=20230316133748",
-          "script": "https://github.com/tin0521/mm/raw/main/miya_atomic.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "atomic_pop",
-              "name": "atomic pop",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "miya",
-              "name": "miya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
+          "skin_name": "Honor",
+          "image": "https://liquipedia.net/commons/images/thumb/4/4f/Miya_Honor_Skin.jpg/475px-Miya_Honor_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_honor.zip",
+          "enabled": true
         },
         {
           "id": "miya_006",
-          "skin_name": "Captain Thorns",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero014-portrait.png/revision/latest?cb=20220525164219",
-          "script": "https://github.com/tin0521/mm/raw/main/miya_captain.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "starlight",
-              "name": "Starlight",
-              "file": "Starlight Skin Tag.png",
-              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-              "type": "rarity"
-            },
-            {
-              "id": "miya",
-              "name": "miya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
+          "skin_name": "Modena Butterfly",
+          "image": "https://liquipedia.net/commons/images/thumb/8/84/Miya_Modena_Butterfly_Skin.jpg/475px-Miya_Modena_Butterfly_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_modena_buttefly.zip",
+          "enabled": true
         },
         {
           "id": "miya_007",
-          "skin_name": "Nightowl Huntress",
-          "image": "https://pbs.twimg.com/media/Gl_pcv8bsAATsYL?format=jpg&name=large",
-          "script": "https://github.com/tin0521/mm/raw/main/miya_starlight.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "starlight",
-              "name": "Starlight",
-              "file": "Starlight Skin Tag.png",
-              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-              "type": "rarity"
-            },
-            {
-              "id": "miya",
-              "name": "miya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
+          "skin_name": "Sweet Fantasy",
+          "image": "https://liquipedia.net/commons/images/thumb/5/58/Alucard_Romantic_Fantasy_Skin.jpg/475px-Alucard_Romantic_Fantasy_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_sweet_fantasy.zip",
+          "enabled": true
         },
         {
           "id": "miya_008",
-          "skin_name": "Honor",
-          "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241021_193024864.png",
-          "script": "https://github.com/tin0521/mm/raw/main/miya_honor.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "honor",
-              "name": "honor",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "miya",
-              "name": "miya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
+          "skin_name": "Suzuhime",
+          "image": "https://liquipedia.net/commons/images/thumb/4/4c/Miya_Suzuhime_Skin.jpg/475px-Miya_Suzuhime_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_suzuhumi.zip",
+          "enabled": true
         },
         {
           "id": "miya_009",
+          "skin_name": "Jungle Ranger",
+          "image": "https://liquipedia.net/commons/images/thumb/3/30/Miya_Jungle_Ranger_Skin.jpg/475px-Miya_Jungle_Ranger_Skin.jpg",
+          "script": "https://github.com/XXXRAINIER09/part7/raw/main/miya%20normal.zip",
+          "enabled": true
+        },
+        {
+          "id": "miya_010",
           "skin_name": "Moon Priestess",
-          "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241021_193024801.png",
-          "script": "https://github.com/tin0521/mm/raw/main/miya_anniversary.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "anniversary",
-              "name": "anniversary",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "miya",
-              "name": "miya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
+          "image": "https://liquipedia.net/commons/images/thumb/b/be/Miya_Moon_Priestess_Skin.jpg/475px-Miya_Moon_Priestess_Skin.jpg",
+          "script": "https://github.com/XXXRAINIER09/part7/raw/main/miya%20aniversar6.zip",
+          "enabled": true
+        },
+        {
+          "id": "miya_011",
+          "skin_name": "Doom Catalyst",
+          "image": "https://liquipedia.net/commons/images/thumb/6/6f/Miya_Doom_Catalyst_Skin.jpg/475px-Miya_Doom_Catalyst_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_doom_catalyst.zip",
+          "enabled": true
+        },
+        {
+          "id": "miya_012",
+          "skin_name": "Atomic Pop Miya",
+          "image": "https://liquipedia.net/commons/images/thumb/5/5a/Miya_Atomic_Pop_Miya_Skin.jpg/475px-Miya_Atomic_Pop_Miya_Skin.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/miya_atomic_pop.zip",
+          "enabled": true
+        },
+        {
+          "id": "miya_013",
+          "skin_name": "Nightowl Huntress",
+          "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Miya-Night-Owl-Huntress.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.3/Upcoming%20Skins/miya-night-owl-huntress.zip",
+          "enabled": true
+        },
+        {
+          "id": "miya_014",
+          "skin_name": "Arrow of Spring",
+          "image": "https://raw.githubusercontent.com/NusantaraV2/data/master/img/misc/Miya-Arrow-Of-Spring.jpg",
+          "script": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.11/SKIN_UPCOMING/miya-eternal-season.zip",
+          "enabled": true
         }
       ]
     },
