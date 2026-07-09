@@ -706,6 +706,26 @@
       "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20YIN%20TARO%20SAKAMOTO.zip",
       "enabled": true,
       "featured": false
+    },
+    {
+      "id": "chou_flash",
+      "name": "Chou",
+      "category": "Crossover",
+      "series": "The Flash",
+      "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG%20Chou%20Flash.jpg",
+      "script": "https://github.com/WG170320/Resources-/raw/refs/heads/main/Custom%20Chou%20X%20Flash.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "gord_ironman",
+      "name": "Gord",
+      "category": "Crossover",
+      "series": "Iron Man",
+      "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG%20Gord%20IronMan.jpg",
+      "script": "https://github.com/WG170320/Resources-/raw/refs/heads/main/Custom%20Gord%20X%20IronMan.zip",
+      "enabled": true,
+      "featured": false
     }
   ],
   "version": 1,
