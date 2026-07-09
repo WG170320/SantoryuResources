@@ -206,6 +206,506 @@
       "tags": [
         "One Punch Man"
       ]
+    },
+    {
+      "id": "miya_btc",
+      "name": "Miya",
+      "category": "Custom",
+      "series": "Miya BTC",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20F1%20Miya%20BTC.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20Miya%20BTC.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "bernarbear",
+      "name": "Fredrinn",
+      "category": "Custom",
+      "series": "BernarBear",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Bernard-cropped-jpg%20(1).jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Fredrinn%20Bernar%20Bear.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "yuzhong_cyber_tyrant_metro_zero",
+      "name": "Yu Zhong",
+      "category": "Custom",
+      "series": "Yuzhong Cyber Tyrant Metro Zero",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20Yuzhong%20Metro%20Zero.png",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Yuzhong%20Metro%20Zero.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "odette_goddess_of_light",
+      "name": "Odette",
+      "category": "Custom",
+      "series": "Odette Goddess of Light",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ODETTE%20LIGHTNING.png",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Odette%20Lightning.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "neobeast_joy",
+      "name": "Joy",
+      "category": "Custom",
+      "series": "Neobeast Joy",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20JOY%20NEOBEAST.png",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Joy%20Neobeast.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "carmilla_x_nezuko",
+      "name": "Carmilla",
+      "category": "Anime",
+      "series": "Carmilla x Nezuko",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CARMILA%20X%20NEZUKO.png",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Carmila%20X%20Nezuko.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "yin_x_kamen_rider",
+      "name": "Yin",
+      "category": "Crossover",
+      "series": "Yin x Kamen Rider",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YIN%20X%20KAMEN%20RIDER.png",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Yin%20X%20Kamen%20Rider.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "rimuru_tempest",
+      "name": "Alucard",
+      "category": "Anime",
+      "series": "Rimuru Tempest",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ALUCARD%20RIMURU.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Alucard%20X%20Rimuru%20Tempest.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "leomord_flying_dutchman_spongebob",
+      "name": "Leomord",
+      "category": "Crossover",
+      "series": "Leomord Flying Dutchman (SpongeBob)",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20LEO%20SPONGEBOB.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Leomord%20X%20FLYING%20DUTCHMAN.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "yin_x_ultraman",
+      "name": "Yin",
+      "category": "Crossover",
+      "series": "Yin x Ultraman",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YIN%20ULTRAMAN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Yin%20X%20Ultra%20Man%20Red.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "aurora_x_aokiji_one_piece",
+      "name": "Aurora",
+      "category": "Anime",
+      "series": "Aurora x Aokiji (One Piece)",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20AURORA%20X%20ONEPIECE.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Aurora%20X%20Aokiji%20Onepiece.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "chou_x_red_ranger",
+      "name": "Chou",
+      "category": "Crossover",
+      "series": "Chou x Red Ranger",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CHOU%20X%20RANGER%20RED.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Chou%20X%20Red%20Ranger.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "dyrroth_x_ace_one_piece",
+      "name": "Dyrroth",
+      "category": "Anime",
+      "series": "Dyrroth x Ace (One Piece)",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20DYROTH%20X%20ACE.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Ace%20Onepiece.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "dyrroth_x_gojo",
+      "name": "Dyrroth",
+      "category": "Anime",
+      "series": "Dyrroth x Gojo",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG_20260310_232748_122.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Gojo.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "gatotkaca_x_venom",
+      "name": "Gatotkaca",
+      "category": "Crossover",
+      "series": "Gatotkaca x Venom",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20Gatotkaca%20VENOM.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Gatotkaca%20X%20Venom%20Marvel.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "esmeralda_x_tsunade",
+      "name": "Esmeralda",
+      "category": "Anime",
+      "series": "Esmeralda x Tsunade",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ESMI%20TSUNADE.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Esmeralda%20X%20Tsunade.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "uranus_x_mahoraga",
+      "name": "Uranus",
+      "category": "Anime",
+      "series": "Uranus x Mahoraga",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20URANUS%20MAHOROGA.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20URANUS%20MAHORAGA.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "arlott_x_chainsaw_man",
+      "name": "Arlott",
+      "category": "Anime",
+      "series": "Arlott x Chainsaw Man",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ARLOT%20X%20CHAINSAWMAN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Arlott%20X%20Chainsawman.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "balmond_x_big_smoke",
+      "name": "Balmond",
+      "category": "Crossover",
+      "series": "Balmond x Big Smoke",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BALMOND%20X%20BIGSMOKE.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BALMOND%20X%20BIG%20SMOKE.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "alucard_exorcist",
+      "name": "Alucard",
+      "category": "Custom",
+      "series": "Alucard Exorcist",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20EXORSIT.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20EXORCIST.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "phoveus_x_yashiro_kof",
+      "name": "Phoveus",
+      "category": "Crossover",
+      "series": "Phoveus x Yashiro (KOF)",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PHOVEUS%20KOF.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20PHOVEUS%20KOF.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "zilong_chibi",
+      "name": "Zilong",
+      "category": "Chibi",
+      "series": "Zilong Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20ZILONG.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20ZILONG.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "vale_chibi",
+      "name": "Vale",
+      "category": "Chibi",
+      "series": "Vale Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20VALE.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20VALE.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "nana_chibi",
+      "name": "Nana",
+      "category": "Chibi",
+      "series": "Nana Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20NANA.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20NANA.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "miya_chibi",
+      "name": "Miya",
+      "category": "Chibi",
+      "series": "Miya Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20MIYA.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20MIYA.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "lylia_chibi",
+      "name": "Lylia",
+      "category": "Chibi",
+      "series": "Lylia Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20LYLIA.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20LYLIA.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "lancelot_chibi",
+      "name": "Lancelot",
+      "category": "Chibi",
+      "series": "Lancelot Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20LANCELOT.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20LANCELOT.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "johnson_chibi",
+      "name": "Johnson",
+      "category": "Chibi",
+      "series": "Johnson Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20JOHNSON.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20JOHNSON.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "guinevere_chibi",
+      "name": "Guinevere",
+      "category": "Chibi",
+      "series": "Guinevere Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20GUINEVERE.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20GUINEVERE.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "chou_thunderfist_chibi",
+      "name": "Chou",
+      "category": "Chibi",
+      "series": "Chou Thunderfist Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20CHOU.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20CHOU%20THUNDERFIST.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "angela_chibi",
+      "name": "Angela",
+      "category": "Chibi",
+      "series": "Angela Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20ANGELA.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20ANGELA.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "aamon_chibi",
+      "name": "Aamon",
+      "category": "Chibi",
+      "series": "Aamon Chibi",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20AAMON.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20AAMON.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "crimson_lizard_moscov",
+      "name": "Moscov",
+      "category": "Custom",
+      "series": "Crimson Lizard Moscov",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20MOSCOV%20CRIMSON%20FARM.png",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/WEIRD%20MOSCOV%20CRIMSONLIZARD.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "johnson_x_pou",
+      "name": "Johnson",
+      "category": "Crossover",
+      "series": "Johnson x Pou",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20POU.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20JONHSON%20X%20POU.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "guinevere_x_gusion",
+      "name": "Guinevere",
+      "category": "Custom",
+      "series": "Guinevere x Gusion",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUINEVERE%20X%20GUSION.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Guinevere%20X%20GUSION.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "big_jett_aldous",
+      "name": "Aldous",
+      "category": "Custom",
+      "series": "Big Jett Aldous",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALDOUS%20BIGJETT.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALDOUS%20BIG%20ULTI%20TRANSFORMER.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "johnson_jollibee_truck",
+      "name": "Johnson",
+      "category": "Crossover",
+      "series": "Johnson Jollibee Truck",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20JOLIBEE%20TRUCK.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Johnson%20X%20JolibeeCar.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "argus_x_toji_fushiguro_v1",
+      "name": "Argus",
+      "category": "Anime",
+      "series": "Argus x Toji Fushiguro (V1)",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ARGUS%20TOJI%20FUSHIGURO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20TOJI%20V1.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "lesley_soul_vessels",
+      "name": "Lesley",
+      "category": "Custom",
+      "series": "Lesley Soul Vessels",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20LESLEY%20SOULV.png",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20LESLEY%20SOUL%20VESSELS.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "guinevere_christmas_carnival",
+      "name": "Guinevere",
+      "category": "Custom",
+      "series": "Guinevere Christmas Carnival",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20GUINEVERE%20CHRISTMAS.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20GUINEVERE%20CHRISSTMAAS.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "zilong_chucky",
+      "name": "Zilong",
+      "category": "Crossover",
+      "series": "Zilong Chucky",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ZILONG%20CHUCKY.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ZILONG%20X%20CHUKKY.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "yin_x_eren_titan_aot",
+      "name": "Yin",
+      "category": "Anime",
+      "series": "Yin x Eren Titan (AOT)",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20YIN%20EREN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20YIN%20EREN%20TITAN.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "jawhead_four_arms_benten",
+      "name": "Jawhead",
+      "category": "Custom",
+      "series": "Jawhead Four Arms Benten",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20JawHEAD%20BENTEN%204ARMS.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20JAWHEAD%20X%20BENTEN.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "gatotkaca_x_hulk",
+      "name": "Gatotkaca",
+      "category": "Crossover",
+      "series": "Gatotkaca x Hulk",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20GATOTKACA%20HULK.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20GATOTKACA%20X%20HULK.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "franco_x_pudge_dota",
+      "name": "Franco",
+      "category": "Crossover",
+      "series": "Franco x Pudge (Dota)",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20FRANCO%20PUDGE.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20FRANCO%20X%20PUDGE.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "cecillion_x_madara",
+      "name": "Cecillion",
+      "category": "Anime",
+      "series": "Cecillion x Madara",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20CECILLION%20MADARA.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20CECILLION%20X%20MADARA.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "badang_x_akaza",
+      "name": "Badang",
+      "category": "Anime",
+      "series": "Badang x Akaza",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BADANG%20AKAZA.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20BADANG%20X%20AKAZA.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "arlott_x_roronoa_zoro",
+      "name": "Arlott",
+      "category": "Anime",
+      "series": "Arlott x Roronoa Zoro",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARLOTT%20ZORO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARLOTT%20X%20ZORO.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "argus_x_steve_minecraft",
+      "name": "Argus",
+      "category": "Crossover",
+      "series": "Argus x Steve (Minecraft)",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARGUS%20STEVE.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARGUS%20X%20STEVE%20MINECRFAFT.zip",
+      "enabled": true,
+      "featured": false
+    },
+    {
+      "id": "yin_x_taro_sakamoto",
+      "name": "Yin",
+      "category": "Anime",
+      "series": "Yin x Taro Sakamoto",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20YIN%20TARO%20SAKAMOTO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20YIN%20TARO%20SAKAMOTO.zip",
+      "enabled": true,
+      "featured": false
     }
   ],
   "version": 1,
