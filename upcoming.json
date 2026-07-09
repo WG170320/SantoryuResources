@@ -1,35 +1,134 @@
 [
   {
-    "title": "Ken Masters",
+    "title": "The Flash",
     "hero": "Chou",
-    "role": "Fighter",
-    "type": "Skin",
-    "image": "https://pbs.twimg.com/media/HJaanYaaQAAmJIs.jpg?format=jpg&name=large",
-    "video": "https://www.youtube.com/watch?v=oeRQEPyfSZE",
-    "note": "Street Fighter collab — custom swagger walk, clean arms.",
-    "date": "JUL 5",
-    "enabled": true
-  },
-  {
-    "title": "Chun-Li",
-    "hero": "Guinevere",
-    "role": "Fighter",
-    "type": "Skin",
-    "image": "https://pbs.twimg.com/media/HJaaVWeakAAZlJM.jpg?format=jpg&name=large",
-    "video": "https://www.youtube.com/watch?v=oeRQEPyfSZE",
-    "note": "New effects pack + custom animations.",
-    "date": "SOON",
-    "enabled": true
-  },
-  {
-    "title": "Ryu",
-    "hero": "Paquito",
-    "role": "Fighter",
+    "role": "",
     "type": "Customize",
-    "image": "https://pbs.twimg.com/media/HJaanYaaQAAmJIs.jpg?format=jpg&name=large",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG%20Chou%20Flash.jpg",
     "video": "",
-    "note": "Hadouken-ready VFX. In the works.",
-    "date": "TBA",
+    "note": "Fastest hero in the game — Chou goes full Flash.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Iron Man",
+    "hero": "Gord",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG%20Gord%20IronMan.jpg",
+    "video": "",
+    "note": "Suit up. Gord becomes Iron Man.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Rimuru Tempest",
+    "hero": "Alucard",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_rimuru_tempest.jpg",
+    "video": "",
+    "note": "That Time Alucard Got Reincarnated as a Slime.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Arlott x Chainsaw Man",
+    "hero": "Arlott",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_arlott_x_chainsaw_man.jpg",
+    "video": "",
+    "note": "Chainsaw Man tears into the Land of Dawn.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Arlott x Roronoa Zoro",
+    "hero": "Arlott",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_arlott_x_roronoa_zoro.jpg",
+    "video": "",
+    "note": "Three-sword style — Arlott x Zoro.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Gatotkaca x Venom",
+    "hero": "Gatotkaca",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_gatotkaca_x_venom.jpg",
+    "video": "",
+    "note": "We are Venom. Gatotkaca symbiote skin.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Gatotkaca x Hulk",
+    "hero": "Gatotkaca",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_gatotkaca_x_hulk.jpg",
+    "video": "",
+    "note": "Gatotkaca SMASH — Hulk crossover.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Yin x Kamen Rider",
+    "hero": "Yin",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_yin_x_kamen_rider.jpg",
+    "video": "",
+    "note": "Henshin! Yin transforms into Kamen Rider.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Yin x Ultraman",
+    "hero": "Yin",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_yin_x_ultraman.jpg",
+    "video": "",
+    "note": "Yin goes giant — Ultraman mode.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Yin x Eren Titan (AOT)",
+    "hero": "Yin",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_yin_x_eren_titan_aot.jpg",
+    "video": "",
+    "note": "Attack on Titan — Yin as Eren.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Yuzhong Cyber Tyrant Metro Zero",
+    "hero": "Yu Zhong",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/IMG_yuzhong_cyber_tyrant_metro_zero.jpg",
+    "video": "",
+    "note": "Cyber Tyrant Yu Zhong — Metro Zero.",
+    "date": "NEW",
+    "enabled": true
+  },
+  {
+    "title": "Dyrroth x Gojo",
+    "hero": "Dyrroth",
+    "role": "",
+    "type": "Customize",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG_20260310_232748_122.jpg",
+    "video": "",
+    "note": "Throughout Heaven and Earth — Dyrroth x Gojo.",
+    "date": "NEW",
     "enabled": true
   }
 ]
