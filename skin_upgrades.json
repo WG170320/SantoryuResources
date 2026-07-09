@@ -2513,7 +2513,7 @@
           "id": "hanzo_undead_king_to_backup",
           "name": "Backup",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb=20250117142003",
-          "script": "https://",
+          "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20hanzo.zip",
           "type": "backup",
           "enabled": false,
           "skin_tags": []
@@ -2544,7 +2544,7 @@
           "id": "hanzo_insidous_tutor_to_backup",
           "name": "Backup",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20250117142005",
-          "script": "https://",
+          "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20hanzo.zip",
           "type": "backup",
           "enabled": false,
           "skin_tags": []
@@ -5142,7 +5142,7 @@
           "id": "miya_sweet_fantasy_to_backup",
           "name": "Backup",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero017-portrait.png/revision/latest?cb=20220525164235",
-          "script": "",
+          "script": "https://github.com/rahasia55/AG-BACKUP2/raw/master/backup%20miya.zip",
           "type": "backup",
           "enabled": false,
           "skin_tags": []
@@ -5174,7 +5174,7 @@
           "id": "miya_christmas_carnival_miya_to_backup",
           "name": "Backup",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest?cb=20220525164212",
-          "script": "",
+          "script": "https://github.com/rahasia55/AG-BACKUP2/raw/master/backup%20miya.zip",
           "type": "backup",
           "enabled": false,
           "skin_tags": []
@@ -13855,7 +13855,7 @@
           "id": "x_borg_moto_drifter_to_bumblebee",
           "name": "Bumblebee",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest?cb=20220525170001",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Xborg%20Elite%20to%20TRANSFORMER.zipp",
+          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Xborg%20Elite%20to%20TRANSFORMER.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
