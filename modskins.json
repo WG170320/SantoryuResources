@@ -133,7 +133,7 @@
       "series": "One Piece",
       "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/kaido-hybrid-form.jpg?w=1200&h=900&fit=crop",
       "script": "https://github.com/xxx/kaido.zip",
-      "enabled": true,
+      "enabled": false,
       "featured": true,
       "tags": [
         "Kaido",
