@@ -17,5 +17,9 @@
   "update_message": "v2.2: brand-new New Skins tab — browse and inject the latest skins in one tap, with a live progress bar. Plus tournament updates. Update for the best experience.",
   "reverify_link": "https://temu.com/s/Ibl869dMg7rpEb1",
   "reverify_link_2": "https://temu.com/s/IvwizB1Wcw6XoTQ5",
-  "reverify_link_3": "https://s.shopee.ph/6VM8qqE4F0"
+  "reverify_link_3": "https://s.shopee.ph/6VM8qqE4F0",
+  "shopee_link": "https://s.shopee.ph/6VM8qqE4F0",
+  "shopee_hours": 0.002,
+  "shopee_dwell_secs": 8,
+  "shopee_forced": false
 }
