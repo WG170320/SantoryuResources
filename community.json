@@ -1,1 +1,20 @@
-{"version":1,"type":"community","skins":[]}
+{
+  "version": 1,
+  "type": "community",
+  "skins": [
+    {
+      "id": "-Oxnk6_usfEGMJ9WzT6X",
+      "name": "E2E Real Skin",
+      "hero": "arlott",
+      "heroName": "Arlott",
+      "category": "Epic",
+      "desc": "probe after fix",
+      "image": "https://kappa.lol/mF97kz.zip",
+      "script": "https://kappa.lol/mF97kz.zip",
+      "author": "Probe",
+      "authorPic": "",
+      "ts": 1784353421699,
+      "enabled": true
+    }
+  ]
+}
