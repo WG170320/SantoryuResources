@@ -1911,5 +1911,179 @@
       "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kishin%20densetsu.jpg",
       "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/kishin-densetsu.zip"
     }
+  ],
+  "spawn": [
+    {
+      "name": "Alpha Abyss",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Darkest_Arrival_Spawn_Effect.png/revision/latest?cb=20211204082940",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/alpha-abyss.zip"
+    },
+    {
+      "name": "Selena Abyss",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Enticing_Arrival_Spawn_Effect.png/revision/latest?cb=20220115045422",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/selena-abyss.zip"
+    },
+    {
+      "name": "Moskov Abyss",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Foreboding_Arrival_Spawn_Effect.png/revision/latest?cb=20220626162847",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/moskov-abyss.zip"
+    },
+    {
+      "name": "Transformers",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Combat_ready_Spawn_Effect.png/revision/latest?cb=20211203125703",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/transformers.zip"
+    },
+    {
+      "name": "Esme Hero",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Arrival_of_the_Future_Spawn_Effect.png/revision/latest?cb=20210712122350",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/esme-hero.zip"
+    },
+    {
+      "name": "Hellokity",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Arrival_Hello_Kitty%21_Spawn_Effect.png/revision/latest?cb=20220307094007",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/hellokity.zip"
+    },
+    {
+      "name": "Arival Sword",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Thunder_Arrives_Spawn_Effect.png/revision/latest?cb=20211203154825",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/arival-sword.zip"
+    },
+    {
+      "name": "Arival Vale",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Arrival_of_the_Storm_Spawn_Effect.png/revision/latest?cb=20211203160708",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/arival-vale.zip"
+    },
+    {
+      "name": "Evos",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/M1_Champion_Spawn_Effect.png/revision/latest?cb=20211203154612",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/evos.zip"
+    },
+    {
+      "name": "M1 Glory",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/2019_M1_Glory_Spawn_Effect.png/revision/latest?cb=20211203154450",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/m1-glory.zip"
+    },
+    {
+      "name": "Stun",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/515_eParty_Spawn_Effect.png/revision/latest?cb=20211203160805",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/stun.zip"
+    },
+    {
+      "name": "MSC",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/MSC_Tournament_Spawn_Effect.png/revision/latest?cb=20211203152026",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/msc.zip"
+    },
+    {
+      "name": "MCL",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Spawn_Effect.png/revision/latest?cb=20211203152003",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/mcl.zip"
+    },
+    {
+      "name": "Helloween",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Candy%21_Candy%21_Spawn_Effect.png/revision/latest?cb=20211203172418",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/helloween.zip"
+    },
+    {
+      "name": "Guardian",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Sky_Guardian_Spawn_Effect.png/revision/latest?cb=20211203152114",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/guardian.zip"
+    },
+    {
+      "name": "Super Hero",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Super_Descent_Spawn_Effect.png/revision/latest?cb=20211203154549",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/super-hero.zip"
+    },
+    {
+      "name": "Default Respawn",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Classic_Spawn_Effect.png/revision/latest?cb=20211203144023",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/default-respawn.zip"
+    },
+    {
+      "name": "Spawn Jujutsu Kaisen",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240810-1_1080p_60f_20240810_194107.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/spawn/spawn-jujutsu-kaisen.zip"
+    }
+  ],
+  "maps": [
+    {
+      "name": "IMPERIAL SANCTUARY > JALAN TOL",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20jalan%20tol.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-jalan-tol.zip"
+    },
+    {
+      "name": "IMPERIAL > GREEN X ZORO",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20zoro.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-green-x-zoro.zip"
+    },
+    {
+      "name": "IMPERIAL SANCTUARY> ULTRA HDR PAVING",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20ultra%20hdr.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-ultra-hdr-paving.zip"
+    },
+    {
+      "name": "IMPERIAL SANCTUARY > DARK MODE AUTUM",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20dark%20mode%20autum.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-dark-mode-autum.zip"
+    },
+    {
+      "name": "IMPERIAL SANCTUARY > ULTRA HD",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20ultra%20hd.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-ultra-hd.zip"
+    },
+    {
+      "name": "IMPERIAL SANCTUARY > HALLOWEEN",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20halloween.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-halloween.zip"
+    },
+    {
+      "name": "IMPERIAL SANCTUARY > ABSTRAK TECHNOLOGY",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20abstrak%20technology.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-abstrak-technology.zip"
+    },
+    {
+      "name": "IMPERIAL SANCTUARY > HUTAN BATU",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hutan%20batu.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-hutan-batu.zip"
+    },
+    {
+      "name": "IMPERIAL SANCTUARY > HD PAVING SAKURA",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hd%20paving%20sakura.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-hd-paving-sakura.zip"
+    },
+    {
+      "name": "IMPERIAL SANCTUARY > COLORFULL",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20colorfull.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-colorfull.zip"
+    },
+    {
+      "name": "IMPERIAL SANCTUARY > STROBERY",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20strobery.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/imperial-sanctuary-strobery.zip"
+    },
+    {
+      "name": "SANCTUM ISLAND > PROMAX",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20promax.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/sanctum-island-promax.zip"
+    },
+    {
+      "name": "SANCTUM ISLAND > PASIR",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20pasir.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/sanctum-island-pasir.zip"
+    },
+    {
+      "name": "SANCTUM ISLAND > HIGH GRAPHICS",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20hight%20grafis.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/sanctum-island-high-graphics.zip"
+    },
+    {
+      "name": "SANCTUM ISLAND > NARUTO FLOWER",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20naruto%20flower.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/sanctum-island-naruto-flower.zip"
+    },
+    {
+      "name": "SANCTUM ISLAND > TOL 3",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/map%20pro%20tol3.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/maps/sanctum-island-tol-3.zip"
+    }
   ]
 }
