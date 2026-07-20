@@ -749,6 +749,636 @@
       "name": "Transformers - Seal of Anvil",
       "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
       "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Transformers%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Beatrix Prime",
+      "image": "https://github.com/rahasia55/AG-Recall/blob/main/beatrix%20prime.gif?raw=true",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/beatrix-prime.zip"
+    },
+    {
+      "name": "Black Vold",
+      "image": "https://github.com/rahasia55/AG-Recall/blob/main/black%20void.gif?raw=true",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/black-vold.zip"
+    },
+    {
+      "name": "Exorcist",
+      "image": "https://github.com/rahasia55/AG-Recall/blob/main/exorcist.gif?raw=true",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/exorcist.zip"
+    },
+    {
+      "name": "Franco Legend",
+      "image": "https://github.com/rahasia55/AG-Recall/blob/main/franco%20legend.gif?raw=true",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/franco-legend.zip"
+    },
+    {
+      "name": "Golden Egg",
+      "image": "https://github.com/rahasia55/AG-Recall/blob/main/golden%20egg.gif?raw=true",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/golden-egg.zip"
+    },
+    {
+      "name": "Leomord Abyss",
+      "image": "https://github.com/rahasia55/AG-Recall/blob/main/leomord%20abyss.gif?raw=true",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/leomord-abyss.zip"
+    },
+    {
+      "name": "Seiya",
+      "image": "https://github.com/rahasia55/AG-Recall/blob/main/seiya.gif?raw=true",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/seiya.zip"
+    },
+    {
+      "name": "Super Return",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Super_Return_Recall_Effect.png/revision/latest?cb=20211204084825",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/super-return.zip"
+    },
+    {
+      "name": "Seal of Anvil",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/seal-of-anvil.zip"
+    },
+    {
+      "name": "Blazing",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/blazing.zip"
+    },
+    {
+      "name": "Lance Hero",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/The_Return_of_The_Sword_Recall_Effect.png/revision/latest?cb=20211204084711",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/lance-hero.zip"
+    },
+    {
+      "name": "Fire Crown",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Fire_Crown_Recall_Effect.png/revision/latest?cb=20211204085112",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/fire-crown.zip"
+    },
+    {
+      "name": "Evos",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/M1_Champion_Recalling_Effect.png/revision/latest?cb=20211204084027",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/evos.zip"
+    },
+    {
+      "name": "Transformers",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/We_are_here%2C_we_are_waiting_Recall_Effect.png/revision/latest?cb=20211204082621",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/transformers.zip"
+    },
+    {
+      "name": "Hellokity",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Recall_Wonder_Park_Recall_Effect.png/revision/latest?cb=20220307094022",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/hellokity.zip"
+    },
+    {
+      "name": "Oriental",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/The_Oriental_Fighters_Recall_Effect.png/revision/latest?cb=20211204085044",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/oriental.zip"
+    },
+    {
+      "name": "Alpha Abyss",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Darkest_Return_Recall_Effect.png/revision/latest?cb=20211203171023",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/alpha-abyss.zip"
+    },
+    {
+      "name": "Selena Abyss",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Enticing_Return_Recall_Effect.png/revision/latest?cb=20220115045433",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/selena-abyss.zip"
+    },
+    {
+      "name": "Moskov Abyss",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Foreboding_Return_Recall_Effect.png/revision/latest?cb=20220626162832",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/moskov-abyss.zip"
+    },
+    {
+      "name": "StarWars",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/MLBB_x_Star_Wars_Recall_Effect.png/revision/latest?cb=20210712121945",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/starwars.zip"
+    },
+    {
+      "name": "Guin Legend",
+      "image": "https://github.com/rahasia55/AG-Recall/blob/main/guin%20legend.jpg?raw=true",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/guin-legend.zip"
+    },
+    {
+      "name": "Vale Hero",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Return_of_the_Storm_Recall_Effect.png/revision/latest?cb=20211204084352",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/vale-hero.zip"
+    },
+    {
+      "name": "Dragon Mark",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Dragon_Mark_Recall_Effect.png/revision/latest?cb=20211204083954",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/dragon-mark.zip"
+    },
+    {
+      "name": "Venom",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/V.E.N.O.M_Skin_Exclusive_Recall_Effect.png/revision/latest?cb=20211204084204",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/venom.zip"
+    },
+    {
+      "name": "Zodiac",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Star_Cluster_Recall_Effect.png/revision/latest?cb=20211204084106",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/zodiac.zip"
+    },
+    {
+      "name": "Aspirant",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Return_of_Hope_Recall_Effect.png/revision/latest?cb=20220126132155",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/aspirant.zip"
+    },
+    {
+      "name": "Recall Jujutsu Kaisen",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240810-1_1080p_60f_20240810_193625.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/recall-jujutsu-kaisen.zip"
+    },
+    {
+      "name": "Recall Atomic",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/recall atomic.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/recall-atomic.zip"
+    },
+    {
+      "name": "recall bayond the clouds",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/recall clouds.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/recall-bayond-the-clouds.zip"
+    },
+    {
+      "name": "Recall Lesley Anual",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/recall lesley anual.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/recall-lesley-anual.zip"
+    },
+    {
+      "name": "Windsacks",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Carp_Windsocks_Fluttering~.png/revision/latest?cb=20211204090100",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/windsacks.zip"
+    },
+    {
+      "name": "Christmas",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Christmas_Recall_Effect.png/revision/latest?cb=20211204090315",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/christmas.zip"
+    },
+    {
+      "name": "Emerald Road",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Emerald_Road_Recall_Effect.png/revision/latest?cb=20211204090253",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/emerald-road.zip"
+    },
+    {
+      "name": "Halloween",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/halloween.zip"
+    },
+    {
+      "name": "Homebound Lily",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Homebound_Lily_Recall_Effect.png/revision/latest?cb=20211204082711",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/homebound-lily.zip"
+    },
+    {
+      "name": "King Of Fighters",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/The_King_Of_Fighters_Recall_Effect.png/revision/latest?cb=20211204084259",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/king-of-fighters.zip"
+    },
+    {
+      "name": "Light & Dark",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Light_%26_Dark_Recall_Effect.png/revision/latest?cb=20211204090039",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/light-dark.zip"
+    },
+    {
+      "name": "M1 Glory",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/2019_M1_Glory_Recall_Effect.png/revision/latest?cb=20211204085025",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m1-glory.zip"
+    },
+    {
+      "name": "M2 Champion",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/M2_Champion_Recalling_Effect.png/revision/latest?cb=20210907052517",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m2-champion.zip"
+    },
+    {
+      "name": "M2 Glory",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/M2_Glory_Recall_Effect.png/revision/latest?cb=20211204084440",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m2-glory.zip"
+    },
+    {
+      "name": "M3 Savege Return",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/M3_Savage_Return_Recall_Effect.png/revision/latest?cb=20211204083700",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m3-savege-return.zip"
+    },
+    {
+      "name": "MCL Tournament",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Recall_Effect.png/revision/latest?cb=20220219110728",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/mcl-tournament.zip"
+    },
+    {
+      "name": "MSC Tournament",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/MSC_Tournament_Recall_Effect.png/revision/latest?cb=20211204085619",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/msc-tournament.zip"
+    },
+    {
+      "name": "Party King",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/party-king.zip"
+    },
+    {
+      "name": "Part Star",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/part-star.zip"
+    },
+    {
+      "name": "Return Of The Futur",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Return_of_the_Future_Recall_Effect.png/revision/latest?cb=20210712122341",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/return-of-the-futur.zip"
+    },
+    {
+      "name": "Return Of The Storm",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Return_of_the_Storm_Recall_Effect.png/revision/latest?cb=20211204084352",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/return-of-the-storm.zip"
+    },
+    {
+      "name": "Seal Of Enternal Flower",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Seal_of_Eternal_Flower_Recall_Effect.png/revision/latest?cb=20211204084857",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/seal-of-enternal-flower.zip"
+    },
+    {
+      "name": "Sky Guardian",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Sky_Guardian_Recall_Effect.png/revision/latest?cb=20211204085328",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/sky-guardian.zip"
+    },
+    {
+      "name": "Snowman",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Snowman_Recall_Effect.png/revision/latest?cb=20211204084915",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/snowman.zip"
+    },
+    {
+      "name": "Spring Festival",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Spring_Festival_Recall_Effect.png/revision/latest?cb=20211204085645",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/spring-festival.zip"
+    },
+    {
+      "name": "Star",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Starlight_Recall_Effect.png/revision/latest?cb=20211204085542",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/star.zip"
+    },
+    {
+      "name": "Summer Gala",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Summer_Gala_Recall_Effect.png/revision/latest?cb=20211204085508",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/summer-gala.zip"
+    },
+    {
+      "name": "Thunder Returns",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Thunder_Returns_Recall_Effect.png/revision/latest?cb=20211204084510",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/thunder-returns.zip"
+    },
+    {
+      "name": "Fortification Return",
+      "image": "https://raw.githubusercontent.com/rahasia55/AG-Recall/main/fortification.return.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/fortification-return.zip"
+    },
+    {
+      "name": "Angela Annual Star",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/angela%20annual%20star.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/angela-annual-star.zip"
+    },
+    {
+      "name": "Attack On Titan",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/attack%20on%20titan.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/attack-on-titan.zip"
+    },
+    {
+      "name": "Champion Here",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20here.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/champion-here.zip"
+    },
+    {
+      "name": "Champion Return",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/champions%20return.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/champion-return.zip"
+    },
+    {
+      "name": "Dragon",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/dragon.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/dragon.zip"
+    },
+    {
+      "name": "Ducati",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/ducati.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/ducati.zip"
+    },
+    {
+      "name": "Ethereal Butterfly",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/ethereal%20butterfly.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/ethereal-butterfly.zip"
+    },
+    {
+      "name": "Freya Legend",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/freya%20legend.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/freya-legend.zip"
+    },
+    {
+      "name": "KOF97",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/kof97.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/kof97.zip"
+    },
+    {
+      "name": "Lunox Legend",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/lunox%20legend.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/lunox-legend.zip"
+    },
+    {
+      "name": "M5 Prime",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/m5%20prime.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m5-prime.zip"
+    },
+    {
+      "name": "M5",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/m5.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m5.zip"
+    },
+    {
+      "name": "Misbenders",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/mistbenders.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/misbenders.zip"
+    },
+    {
+      "name": "Mworld",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/mworld.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/mworld.zip"
+    },
+    {
+      "name": "Neo Best",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/neo%20beast.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/neo-best.zip"
+    },
+    {
+      "name": "Soul Vessels",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/soul%20vessels.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/soul-vessels.zip"
+    },
+    {
+      "name": "Valir Legend",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/valir%20legend.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/valir-legend.zip"
+    },
+    {
+      "name": "Leomord Ducati",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/tecall leomord ducati.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/leomord-ducati.zip"
+    },
+    {
+      "name": "Esport Evos",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20evos.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/esport-evos.zip"
+    },
+    {
+      "name": "Esport Fcon",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20fcon.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/esport-fcon.zip"
+    },
+    {
+      "name": "Esport Geek",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20geek.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/esport-geek.zip"
+    },
+    {
+      "name": "Esport Rsg Ph",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20rsg%20ph.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/esport-rsg-ph.zip"
+    },
+    {
+      "name": "Esport Tlid",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20tlid.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/esport-tlid.zip"
+    },
+    {
+      "name": "Esport Tlph",
+      "image": "https://raw.githubusercontent.com/rahasia55/tes/main/esport%20tlph.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/esport-tlph.zip"
+    },
+    {
+      "name": "Fnog Onic",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/onic.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/fnog-onic.zip"
+    },
+    {
+      "name": "NeoBeast",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/Screenshot_2025-07-08-11-46-01-738_com.mobile.legends-picsay.png",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/neobeast.zip"
+    },
+    {
+      "name": "Abyssal Thunder",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/abyssal%20thunder.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/abyssal-thunder.zip"
+    },
+    {
+      "name": "Party Star",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/party-star.zip"
+    },
+    {
+      "name": "Transformer",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/We_are_here%2C_we_are_waiting_Recall_Effect.png/revision/latest?cb=20211204082621",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/transformer.zip"
+    },
+    {
+      "name": "M3 Glorius Return",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/M3_Glorious_Return_Recall_Effect.png/revision/latest?cb=20211204083651",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m3-glorius-return.zip"
+    },
+    {
+      "name": "Geekid",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/geekid.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/geekid.zip"
+    },
+    {
+      "name": "NeoBeast V2",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/neobeast%20v2.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/neobeast-v2.zip"
+    },
+    {
+      "name": "Spongebob",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/spongebob.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/spongebob.zip"
+    },
+    {
+      "name": "Tlph",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlph.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/tlph.zip"
+    },
+    {
+      "name": "Converg Blade",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/converg%20blade.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/converg-blade.zip"
+    },
+    {
+      "name": "Annual Star",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/annual%20star.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/annual-star.zip"
+    },
+    {
+      "name": "Zeus",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/zeus.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/zeus.zip"
+    },
+    {
+      "name": "Soul Vessel",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/soul%20vessel.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/soul-vessel.zip"
+    },
+    {
+      "name": "Dewa",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/dewa.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/dewa.zip"
+    },
+    {
+      "name": "Fnop",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fcap.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/fnop.zip"
+    },
+    {
+      "name": "Kishin",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/kishin.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/kishin.zip"
+    },
+    {
+      "name": "M6",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m6.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m6.zip"
+    },
+    {
+      "name": "Hxh",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/hxh.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/hxh.zip"
+    },
+    {
+      "name": "Naruto",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/naruto.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/naruto.zip"
+    },
+    {
+      "name": "Rora",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rora.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/rora.zip"
+    },
+    {
+      "name": "Rsg",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rsg.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/rsg.zip"
+    },
+    {
+      "name": "Atomic Pop",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/atomic%20pop.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/atomic-pop.zip"
+    },
+    {
+      "name": "Dashing Cat",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/dashing%20cat.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/dashing-cat.zip"
+    },
+    {
+      "name": "Golden Month",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/golden%20month.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/golden-month.zip"
+    },
+    {
+      "name": "Fore Crown",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fire%20crown.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/fore-crown.zip"
+    },
+    {
+      "name": "M4",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/m4.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m4.zip"
+    },
+    {
+      "name": "Navi",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/navi.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/navi.zip"
+    },
+    {
+      "name": "M7",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/backup%20m6.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/m7.zip"
+    },
+    {
+      "name": "Fcap",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fcap.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/fcap.zip"
+    },
+    {
+      "name": "Tlid",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tlid.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/tlid.zip"
+    },
+    {
+      "name": "Sowman",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/snowman.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/sowman.zip"
+    },
+    {
+      "name": "Rbl",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/rbl.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/rbl.zip"
+    },
+    {
+      "name": "Tnc",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/tnc.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/tnc.zip"
+    },
+    {
+      "name": "Sparkle",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sparkle.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/sparkle.zip"
+    },
+    {
+      "name": "Fnof",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/fnop.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/fnof.zip"
+    },
+    {
+      "name": "Stellar briliance",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/stellar%20briliance.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/stellar-briliance.zip"
+    },
+    {
+      "name": "Flcn",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/flcn.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/flcn.zip"
+    },
+    {
+      "name": "Nexus Sea",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/thamus%20nexus%20sea%20recall.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/nexus-sea.zip"
+    },
+    {
+      "name": "Itachi",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/refs/heads/main/itachi%20recall.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/itachi.zip"
+    },
+    {
+      "name": "Sario",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/sario.zip"
+    },
+    {
+      "name": "Lucky Golden Egg",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/golden%20egg.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/lucky-golden-egg.zip"
+    },
+    {
+      "name": "Sanrio",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/sario.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/sanrio.zip"
+    },
+    {
+      "name": "Iternal Season",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20iternal%20season.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/iternal-season.zip"
+    },
+    {
+      "name": "umamusune",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20umamusume.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/umamusune.zip"
+    },
+    {
+      "name": "BTC",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20btc.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/btc.zip"
+    },
+    {
+      "name": "Fanny Legend",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoRecall/main/recall%20fanny%20legend.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/recall/fanny-legend.zip"
     }
   ],
   "trail": [
@@ -846,6 +1476,126 @@
       "name": "Trail Johnson Legend - Classic",
       "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Johnson%20Legend.jpeg",
       "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/Trail%20Johnson%20Legend%20-%20Classic.zip"
+    },
+    {
+      "name": "Trail Alucard Legend",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/trail alucard legend.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-alucard-legend.zip"
+    },
+    {
+      "name": "Trail Arlot Starlight",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/arlot starlight.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-arlot-starlight.zip"
+    },
+    {
+      "name": "Trail beatrix M4",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/beatrix m4.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-beatrix-m4.zip"
+    },
+    {
+      "name": "Trail Edith Starlight",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/edith starlight.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-edith-starlight.zip"
+    },
+    {
+      "name": "Trail Franco Legend",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/franco legend.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-franco-legend.zip"
+    },
+    {
+      "name": "trail Gord Legend",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/gord legend.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-gord-legend.zip"
+    },
+    {
+      "name": "Trail Gusion Legend",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/gusion legend.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-gusion-legend.zip"
+    },
+    {
+      "name": "Trail Layla Starlight",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/layla starlight.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-layla-starlight.zip"
+    },
+    {
+      "name": "Trail Melissa Starlight",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/melissa starlight.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-melissa-starlight.zip"
+    },
+    {
+      "name": "Trail Minsitthar Starlight",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/minitstar starlight.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-minsitthar-starlight.zip"
+    },
+    {
+      "name": "Trail Roger M3",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/roger m3.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-roger-m3.zip"
+    },
+    {
+      "name": "Trail Roger Prime",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/roger prime.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-roger-prime.zip"
+    },
+    {
+      "name": "Trail Saber Legend",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/saber legend.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-saber-legend.zip"
+    },
+    {
+      "name": "Trail Thamuz Starlight",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/thamuz starlight.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-thamuz-starlight.zip"
+    },
+    {
+      "name": "Trail Valir Legend",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/valir legend.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-valir-legend.zip"
+    },
+    {
+      "name": "Trail YuZhong M5",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/yu zhong m5.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-yuzhong-m5.zip"
+    },
+    {
+      "name": "Trail YuZhong Prime",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/yuzhong prime.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/trail-yuzhong-prime.zip"
+    },
+    {
+      "name": "Cyber Agent",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240824_1080p_60f_20240824_140406.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/cyber-agent.zip"
+    },
+    {
+      "name": "Divine Goddess",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240824_1080p_60f_20240824_141023.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/divine-goddess.zip"
+    },
+    {
+      "name": "Enternal Guardian",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240824_1080p_60f_20240824_141351.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/enternal-guardian.zip"
+    },
+    {
+      "name": "Iron Hound",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240824_1080p_60f_20240824_141923.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/iron-hound.zip"
+    },
+    {
+      "name": "Miya Legend",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240824_1080p_60f_20240824_142029.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/miya-legend.zip"
+    },
+    {
+      "name": "Star Enforcer",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240824_1080p_60f_20240824_142617.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/star-enforcer.zip"
+    },
+    {
+      "name": "Violet Spear",
+      "image": "https://github.com/kurakura5555/kumpulan/raw/main/uploads/km_20240824_1080p_60f_20240824_142708.gif",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/trail/violet-spear.zip"
     }
   ],
   "emote": [
@@ -1030,6 +1780,136 @@
       "name": "Classic Onic 2024",
       "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/Onic.jpeg",
       "script": "https://raw.githubusercontent.com/injctr/EL1M1N4TI0N/main/Classic%20Onic%202024.zip"
+    },
+    {
+      "name": "Alpha Abyss",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Darkest_Takedown_Elimination_Effect.png/revision/latest?cb=20211204083749",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/alpha-abyss.zip"
+    },
+    {
+      "name": "Moskov Abyss",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Foreboding_Takedown_Elimination_Effect.png/revision/latest?cb=20220626162857",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/moskov-abyss.zip"
+    },
+    {
+      "name": "Selena Abyss",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Enticing_Takedown_Elimination_Effect.png/revision/latest?cb=20220115045440",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/selena-abyss.zip"
+    },
+    {
+      "name": "Transformers",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Knockout_Elimination_Effect.png/revision/latest?cb=20210907052054",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/transformers.zip"
+    },
+    {
+      "name": "Esme Hero",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Elimination_of_the_Future_Elimination_Effect.png/revision/latest?cb=20210712121922",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/esme-hero.zip"
+    },
+    {
+      "name": "HelloKitty",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Knockout_Uh%2C_Next_Time_Elimination_Effect.png/revision/latest?cb=20220307094032",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/hellokitty.zip"
+    },
+    {
+      "name": "The Sword",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/The_Elimination_of_The_Sword_Elimination_Effect.png/revision/latest?cb=20211204075444",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/the-sword.zip"
+    },
+    {
+      "name": "Vale Hero",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Return_of_the_Storm_Recall_Effect.png/revision/latest?cb=20211204084352",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/vale-hero.zip"
+    },
+    {
+      "name": "Brens",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/M2_Champion_Elimination_Effect.png/revision/latest?cb=20211204083823",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/brens.zip"
+    },
+    {
+      "name": "Default Elimination",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest?cb=20211204075319",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/default-elimination.zip"
+    },
+    {
+      "name": "Calamity End",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/calamity%20end.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/calamity-end.zip"
+    },
+    {
+      "name": "Evos",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/evos.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/evos.zip"
+    },
+    {
+      "name": "Blackist",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/blacklist.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/blackist.zip"
+    },
+    {
+      "name": "Ghost",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/ghost.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/ghost.zip"
+    },
+    {
+      "name": "Aspirants",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/aspirants.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/aspirants.zip"
+    },
+    {
+      "name": "Kungfu",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kungfu.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/kungfu.zip"
+    },
+    {
+      "name": "K.O",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/k.o.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/k-o.zip"
+    },
+    {
+      "name": "Rip",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/rip.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/rip.zip"
+    },
+    {
+      "name": "Saint Seiya",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/saint%20seiya.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/saint-seiya.zip"
+    },
+    {
+      "name": "M3",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/m3.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/m3.zip"
+    },
+    {
+      "name": "Spongebob",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/spongebob.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/spongebob.zip"
+    },
+    {
+      "name": "Mworld",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/mworld.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/mworld.zip"
+    },
+    {
+      "name": "Stun",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/stun.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/stun.zip"
+    },
+    {
+      "name": "Thunder Strike",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/thunder%20strike.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/thunder-strike.zip"
+    },
+    {
+      "name": "Super Kill",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/super%20kill.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/super-kill.zip"
+    },
+    {
+      "name": "Kishin Densetsu",
+      "image": "https://raw.githubusercontent.com/KANEKIML/FotoEliminasi/main/kishin%20densetsu.jpg",
+      "script": "https://raw.githubusercontent.com/WG170320/effect-imports/main/elimination/kishin-densetsu.zip"
     }
   ]
 }
